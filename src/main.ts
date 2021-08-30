@@ -1,0 +1,1 @@
+let elemental: string[] = ["Earth", "Water", "Wind", "Fire", "Light", "Dark", "Electric"] 
